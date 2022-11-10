@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sai-Sam-N
 - 👀 I’m interested in Artificial Intelligence, Robotics, Data Science and Cloud computing
 - 🌱 I’m currently learning AI and Robotics
-- 🎓 I'm a 2nd year B.Tech student pursuing B.Tech in specialization in AI and Robotics at VIT Chennai
+- 🎓 I'm a 3rd year B.Tech student pursuing B.Tech in specialization in AI and Robotics at VIT Chennai
 - 📻 You can reach me through Linkedin - https://www.linkedin.com/in/sai-samyuktha-n/ 
